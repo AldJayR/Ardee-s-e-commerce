@@ -1,0 +1,5 @@
+Flask
+flask-session
+cs50
+Werkzeug
+Flask-Mail
